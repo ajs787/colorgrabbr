@@ -1,4 +1,4 @@
 # colorgrabbr
-tool for artists!
+macOS tool for artists!
 
 get the RGB of any color on any website
